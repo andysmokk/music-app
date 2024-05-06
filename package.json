@@ -1,5 +1,5 @@
 {
-  "name": "elagant-music-app",
+  "name": "music-app",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -30,6 +30,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.3",
+    "typescript": "^5.4.5",
     "vite": "^2.9.9"
   }
 }
